@@ -1,0 +1,24 @@
+.button
+{
+    background-color: rgb(22, 48, 88);
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.button:hover
+{
+    background-color: rgb(13, 35, 69);
+    color: aliceblue;
+}
+
+.equal
+{
+    grid-column: 3/5;
+    background-color: rgb(230, 42, 42);
+}
+
+.equal:hover
+{
+    background-color: rgb(236, 14, 14);
+}
